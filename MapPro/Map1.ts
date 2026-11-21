@@ -1,0 +1,10 @@
+let a=new Map()
+a.set(123,false)
+a.set("A","Aeroplane")
+a.set(7126312, 7372183)
+a.set("Fruits","Banana")
+a.set(62352, false)
+a.set("H", 621531)
+a.set(true, "Rain")
+
+console.log(a)
